@@ -1,0 +1,7 @@
+.bg-header {
+  background-color: #2f3e46;
+}
+
+.selected {
+  border-bottom: solid 2px white;
+}
